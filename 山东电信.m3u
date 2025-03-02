@@ -107,13 +107,10 @@ http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
 http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
 #EXTINF:-1 tvg-id="山东体育" tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东体育.png" group-title="山东地方频道",山东体育
 http://150.138.8.143/00/SNM/CHANNEL20000003/index.m3u8
-
 #EXTINF:-1 tvg-id="山东体育休闲" tvg-name="山东体育休闲" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东体育.png" group-title="山东地方频道",山东体育休闲
 http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
 #EXTINF:-1 tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东文旅.png" group-title="山东地方频道",山东文旅
 http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
-#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东新闻.png" group-title="山东地方频道",山东新闻
-http://150.138.8.143/00/SNM/CHANNEL00000314/index.m3u8
 #EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东新闻.png" group-title="山东地方频道",山东新闻
 http://150.138.8.143/00/SNM/CHANNEL10000314/index.m3u8
 #EXTINF:-1 tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东综艺.png" group-title="山东地方频道",山东综艺
