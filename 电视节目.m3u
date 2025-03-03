@@ -1,0 +1,453 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV1
+http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV2
+http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV3
+http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png",CCTV4
+http://150.138.8.143/00/SNM/CHANNEL00000320/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png",CCTV4美洲
+http://150.138.8.143/00/SNM/CHANNEL00000351/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png",CCTV4欧洲
+http://150.138.8.143/00/SNM/CHANNEL00000350/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png",CCTV5
+http://150.138.8.143/00/SNM/CHANNEL00000360/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png",CCTV5+
+http://150.138.8.143/00/SNM/CHANNEL00000316/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png",CCTV6
+http://150.138.8.143/00/SNM/CHANNEL00000361/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV7
+http://150.138.8.143/00/SNM/CHANNEL00000318/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png",CCTV8
+http://150.138.8.143/00/SNM/CHANNEL00000362/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png",CCTV9
+http://150.138.8.143/00/SNM/CHANNEL00000319/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png",CCTV10
+http://150.138.8.143/00/SNM/CHANNEL00000321/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png",CCTV11
+http://150.138.8.143/00/SNM/CHANNEL00000344/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png",CCTV12
+http://150.138.8.143/00/SNM/CHANNEL00000322/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png",CCTV13
+http://150.138.8.143/00/SNM/CHANNEL00000345/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png",CCTV14
+http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png",CCTV15
+http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png",CCTV17
+http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png",CGTN
+http://150.138.8.143/00/SNM/CHANNEL00000352/index.m3u8
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png",CGTN西语
+http://150.138.8.143/00/SNM/CHANNEL00000354/index.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png",CGTN法语
+http://150.138.8.143/00/SNM/CHANNEL00000355/index.m3u8
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png",CGTN阿语
+http://150.138.8.143/00/SNM/CHANNEL00000356/index.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png",CGTN俄语
+http://150.138.8.143/00/SNM/CHANNEL00000357/index.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png",CGTN纪录
+http://150.138.8.143/00/SNM/CHANNEL00000353/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
+http://150.138.8.143/00/SNM/CHANNEL10000301/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
+http://150.138.8.143/00/SNM/CHANNEL00000305/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000324/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
+http://150.138.8.143/00/SNM/CHANNEL00000304/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
+http://150.138.8.143/00/SNM/CHANNEL00000309/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
+http://150.138.8.143/00/SNM/CHANNEL00000302/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
+http://150.138.8.143/00/SNM/CHANNEL00000328/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
+http://150.138.8.143/00/SNM/CHANNEL00000308/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000358/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000310/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",贵州卫视
+http://150.138.8.143/00/SNM/CHANNEL00000329/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png",湖北卫视
+http://150.138.8.143/00/SNM/CHANNEL00000325/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
+http://150.138.8.143/00/SNM/CHANNEL00000307/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png",天津卫视
+http://150.138.8.143/00/SNM/CHANNEL00000327/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
+http://150.138.8.143/00/SNM/CHANNEL00000341/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
+http://150.138.8.143/00/SNM/CHANNEL00000326/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
+http://150.138.8.143/00/SNM/CHANNEL00000368/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
+http://150.138.8.143/00/SNM/CHANNEL00000306/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
+http://150.138.8.143/00/SNM/CHANNEL00000348/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
+http://150.138.8.143/00/SNM/CHANNEL00000347/index.m3u8
+#EXTINF:-1 tvg-name="山东齐鲁" tvg-logo="https://live.fanmingming.com/tv/山东齐鲁.png",山东齐鲁
+http://150.138.8.143/00/SNM/CHANNEL10000313/index.m3u8
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.fanmingming.com/tv/山东农科.png",山东农科
+http://150.138.8.143/00/SNM/CHANNEL00000339/index.m3u8
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png",山东少儿
+http://150.138.8.143/00/SNM/CHANNEL00000340/index.m3u8
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png",山东生活
+http://150.138.8.143/00/SNM/CHANNEL00000336/index.m3u8
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png",山东体育
+http://150.138.8.143/00/SNM/CHANNEL20000003/index.m3u8
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png",山东综艺
+http://150.138.8.143/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1 tvg-name="山东教育" tvg-logo="https://live.fanmingming.com/tv/山东教育.png",山东教育
+http://150.138.8.143/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://live.fanmingming.com/tv/山东体育休闲.png",山东体育休闲
+http://150.138.8.143/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.com/tv/山东文旅.png",山东文旅
+http://150.138.8.143/00/SNM/CHANNEL00000337/index.m3u8
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://live.fanmingming.com/tv/山东新闻.png",山东新闻
+http://150.138.8.143/00/SNM/CHANNEL10000314/index.m3u8
+#EXTINF:-1 tvg-name="山东齐鲁频道" tvg-logo="https://live.fanmingming.com/tv/山东齐鲁频道.png",山东齐鲁频道
+http://150.138.8.132/00/SNM/CHANNEL10000313/index.m3u8
+#EXTINF:-1 tvg-name="山东新闻" tvg-logo="https://live.fanmingming.com/tv/山东新闻.png",山东新闻
+http://150.138.8.132/00/SNM/CHANNEL10000314/index.m3u8
+#EXTINF:-1 tvg-name="山东体育休闲" tvg-logo="https://live.fanmingming.com/tv/山东体育休闲.png",山东体育休闲
+http://150.138.8.132/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1 tvg-name="山东生活" tvg-logo="https://live.fanmingming.com/tv/山东生活.png",山东生活
+http://150.138.8.132/00/SNM/CHANNEL00000336/index.m3u8
+#EXTINF:-1 tvg-name="山东文旅" tvg-logo="https://live.fanmingming.com/tv/山东文旅.png",山东文旅
+http://150.138.8.132/00/SNM/CHANNEL00000337/index.m3u8
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="https://live.fanmingming.com/tv/山东综艺.png",山东综艺
+http://150.138.8.132/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1 tvg-name="山东农科" tvg-logo="https://live.fanmingming.com/tv/山东农科.png",山东农科
+http://150.138.8.132/00/SNM/CHANNEL00000339/index.m3u8
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png",山东少儿
+http://150.138.8.132/00/SNM/CHANNEL00000340/index.m3u8
+#EXTINF:-1 tvg-name="山东海洋频道" tvg-logo="https://live.fanmingming.com/tv/山东海洋频道.png",山东海洋频道
+http://150.138.8.132/00/SNM/CHANNEL00000662/index.m3u8
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png",中国交通
+http://150.138.8.143/00/SNM/CHANNEL00000073/index.m3u8
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/中国教育1台.png",中国教育1台
+http://150.138.8.143/00/SNM/CHANNEL00000076/index.m3u8
+#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/中国教育4台.png",中国教育4台
+http://150.138.8.143/00/SNM/CHANNEL00000666/index.m3u8
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://live.fanmingming.com/tv/动漫秀场.png",动漫秀场
+http://150.138.8.143/00/SNM/CHANNEL00002000/index.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png",都市剧场
+http://150.138.8.143/00/SNM/CHANNEL00002022/index.m3u8
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png",法治天地
+http://150.138.8.143/00/SNM/CHANNEL00002010/index.m3u8
+#EXTINF:-1 tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png",乐游
+http://150.138.8.143/00/SNM/CHANNEL00002016/index.m3u8
+#EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png",精彩影视
+http://150.138.8.143/00/SNM/CHANNEL00002012/index.m3u8
+#EXTINF:-1 tvg-name="海洋频道" tvg-logo="https://live.fanmingming.com/tv/海洋频道.png",海洋频道
+http://150.138.8.143/00/SNM/CHANNEL00000662/index.m3u8
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png",快乐垂钓
+http://150.138.8.143/00/SNM/CHANNEL00000648/index.m3u8
+#EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png",茶
+http://150.138.8.143/00/SNM/CHANNEL00000649/index.m3u8
+#EXTINF:-1 tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/梨园.png",梨园
+http://150.138.8.143/00/SNM/CHANNEL00000656/index.m3u8
+#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://live.fanmingming.com/tv/文物宝库.png",文物宝库
+http://150.138.8.143/00/SNM/CHANNEL00000658/index.m3u8
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png",武术世界
+http://150.138.8.143/00/SNM/CHANNEL00000657/index.m3u8
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png",重温经典
+http://150.138.8.132/00/SNM/CHANNEL00000364/index.m3u8
+#EXTINF:-1 tvg-name="SDETV" tvg-logo="https://live.fanmingming.com/tv/SDETV.png",SDETV
+http://150.138.8.132/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 tvg-name="SiTV动漫秀场" tvg-logo="https://live.fanmingming.com/tv/SiTV动漫秀场.png",SiTV动漫秀场
+http://150.138.8.132/00/SNM/CHANNEL00002000/index.m3u8
+#EXTINF:-1 tvg-name="SiTV生活时尚" tvg-logo="https://live.fanmingming.com/tv/SiTV生活时尚.png",SiTV生活时尚
+http://150.138.8.132/00/SNM/CHANNEL00002019/index.m3u8
+#EXTINF:-1 tvg-name="SiTV都市剧场" tvg-logo="https://live.fanmingming.com/tv/SiTV都市剧场.png",SiTV都市剧场
+http://150.138.8.132/00/SNM/CHANNEL00002022/index.m3u8
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://live.fanmingming.com/tv/法治天地.png",法治天地
+http://150.138.8.132/00/SNM/CHANNEL00002010/index.m3u8
+#EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://live.fanmingming.com/tv/精彩影视.png",精彩影视
+http://150.138.8.132/00/SNM/CHANNEL00002012/index.m3u8
+#EXTINF:-1 tvg-name="乐游频道" tvg-logo="https://live.fanmingming.com/tv/乐游频道.png",乐游频道
+http://150.138.8.132/00/SNM/CHANNEL00002016/index.m3u8
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png",魅力足球
+http://150.138.8.132/00/SNM/CHANNEL00002021/index.m3u8
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png",游戏风云
+http://150.138.8.132/00/SNM/CHANNEL00002024/index.m3u8
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png",中国交通
+http://150.138.8.132/00/SNM/CHANNEL00000073/index.m3u8
+#EXTINF:-1 tvg-name="济南教育" tvg-logo="https://live.fanmingming.com/tv/济南教育.png",济南教育
+http://150.138.8.132/00/SNM/CHANNEL00000069/index.m3u8
+#EXTINF:-1 tvg-name="济南新闻综合" tvg-logo="https://live.fanmingming.com/tv/济南新闻综合.png",济南新闻综合
+http://150.138.8.132/00/SNM/CHANNEL00000312/index.m3u8
+#EXTINF:-1 tvg-name="济阳综合" tvg-logo="https://live.fanmingming.com/tv/济阳综合.png",济阳综合
+http://150.138.8.132/00/SNM/CHANNEL00001030/index.m3u8
+#EXTINF:-1 tvg-name="商河综合" tvg-logo="https://live.fanmingming.com/tv/商河综合.png",商河综合
+http://150.138.8.132/00/SNM/CHANNEL00001008/index.m3u8
+#EXTINF:-1 tvg-name="历城综合" tvg-logo="https://live.fanmingming.com/tv/历城综合.png",历城综合
+http://150.138.8.132/00/SNM/CHANNEL00001105/index.m3u8
+#EXTINF:-1 tvg-name="平阴综合" tvg-logo="https://live.fanmingming.com/tv/平阴综合.png",平阴综合
+http://150.138.8.132/00/SNM/CHANNEL00001050/index.m3u8
+#EXTINF:-1 tvg-name="章丘综合" tvg-logo="https://live.fanmingming.com/tv/章丘综合.png",章丘综合
+http://150.138.8.132/00/SNM/CHANNEL00004009/index.m3u8
+#EXTINF:-1 tvg-name="崂山电视台" tvg-logo="https://live.fanmingming.com/tv/崂山电视台.png",崂山电视台
+http://150.138.8.132/00/SNM/CHANNEL00001022/index.m3u8
+#EXTINF:-1 tvg-name="平度1" tvg-logo="https://live.fanmingming.com/tv/平度1.png",平度1
+http://150.138.8.132/00/SNM/CHANNEL00001054/index.m3u8
+#EXTINF:-1 tvg-name="胶州综合" tvg-logo="https://live.fanmingming.com/tv/胶州综合.png",胶州综合
+http://150.138.8.132/00/SNM/CHANNEL00001074/index.m3u8
+#EXTINF:-1 tvg-name="莱西综合" tvg-logo="https://live.fanmingming.com/tv/莱西综合.png",莱西综合
+http://150.138.8.132/00/SNM/CHANNEL00001067/index.m3u8
+#EXTINF:-1 tvg-name="黄岛综合" tvg-logo="https://live.fanmingming.com/tv/黄岛综合.png",黄岛综合
+http://150.138.8.132/00/SNM/CHANNEL00001086/index.m3u8
+#EXTINF:-1 tvg-name="黄岛生活" tvg-logo="https://live.fanmingming.com/tv/黄岛生活.png",黄岛生活
+http://150.138.8.132/00/SNM/CHANNEL00001087/index.m3u8
+#EXTINF:-1 tvg-name="淄博新闻综合" tvg-logo="https://live.fanmingming.com/tv/淄博新闻综合.png",淄博新闻综合
+http://150.138.8.132/00/SNM/CHANNEL00000292/index.m3u8
+#EXTINF:-1 tvg-name="淄博影视频道" tvg-logo="https://live.fanmingming.com/tv/淄博影视频道.png",淄博影视频道
+http://150.138.8.132/00/SNM/CHANNEL00001037/index.m3u8
+#EXTINF:-1 tvg-name="淄川新闻" tvg-logo="https://live.fanmingming.com/tv/淄川新闻.png",淄川新闻
+http://150.138.8.132/00/SNM/CHANNEL00001007/index.m3u8
+#EXTINF:-1 tvg-name="无棣综合" tvg-logo="https://live.fanmingming.com/tv/无棣综合.png",无棣综合
+http://150.138.8.132/00/SNM/CHANNEL00001024/index.m3u8
+#EXTINF:-1 tvg-name="邹平综合" tvg-logo="https://live.fanmingming.com/tv/邹平综合.png",邹平综合
+http://150.138.8.132/00/SNM/CHANNEL00001058/index.m3u8
+#EXTINF:-1 tvg-name="沾化综合" tvg-logo="https://live.fanmingming.com/tv/沾化综合.png",沾化综合
+http://150.138.8.132/00/SNM/CHANNEL00001035/index.m3u8
+#EXTINF:-1 tvg-name="阳信新闻综合" tvg-logo="https://live.fanmingming.com/tv/阳信新闻综合.png",阳信新闻综合
+http://150.138.8.132/00/SNM/CHANNEL00001036/index.m3u8
+#EXTINF:-1 tvg-name="东平综合" tvg-logo="https://live.fanmingming.com/tv/东平综合.png",东平综合
+http://150.138.8.132/00/SNM/CHANNEL00001001/index.m3u8
+#EXTINF:-1 tvg-name="岱岳电视台" tvg-logo="https://live.fanmingming.com/tv/岱岳电视台.png",岱岳电视台
+http://150.138.8.132/00/SNM/CHANNEL00001013/index.m3u8
+#EXTINF:-1 tvg-name="宁阳综合" tvg-logo="https://live.fanmingming.com/tv/宁阳综合.png",宁阳综合
+http://150.138.8.132/00/SNM/CHANNEL00001071/index.m3u8
+#EXTINF:-1 tvg-name="新泰乡村" tvg-logo="https://live.fanmingming.com/tv/新泰乡村.png",新泰乡村
+http://150.138.8.132/00/SNM/CHANNEL00001066/index.m3u8
+#EXTINF:-1 tvg-name="新泰综合" tvg-logo="https://live.fanmingming.com/tv/新泰综合.png",新泰综合
+http://150.138.8.132/00/SNM/CHANNEL00001029/index.m3u8
+#EXTINF:-1 tvg-name="泰山频道" tvg-logo="https://live.fanmingming.com/tv/泰山频道.png",泰山频道
+http://150.138.8.132/00/SNM/CHANNEL00001114/index.m3u8
+#EXTINF:-1 tvg-name="德州新闻综合" tvg-logo="https://live.fanmingming.com/tv/德州新闻综合.png",德州新闻综合
+http://150.138.8.132/00/SNM/CHANNEL00000206/index.m3u8
+#EXTINF:-1 tvg-name="德州经济生活" tvg-logo="https://live.fanmingming.com/tv/德州经济生活.png",德州经济生活
+http://150.138.8.132/00/SNM/CHANNEL00000207/index.m3u8
+#EXTINF:-1 tvg-name="武城综合" tvg-logo="https://live.fanmingming.com/tv/武城综合.png",武城综合
+http://150.138.8.132/00/SNM/CHANNEL00001059/index.m3u8
+#EXTINF:-1 tvg-name="武城综艺影视" tvg-logo="https://live.fanmingming.com/tv/武城综艺影视.png",武城综艺影视
+http://150.138.8.132/00/SNM/CHANNEL00001060/index.m3u8
+#EXTINF:-1 tvg-name="禹城综合" tvg-logo="https://live.fanmingming.com/tv/禹城综合.png",禹城综合
+http://150.138.8.132/00/SNM/CHANNEL00001061/index.m3u8
+#EXTINF:-1 tvg-name="禹城综艺" tvg-logo="https://live.fanmingming.com/tv/禹城综艺.png",禹城综艺
+http://150.138.8.132/00/SNM/CHANNEL00001062/index.m3u8
+#EXTINF:-1 tvg-name="齐河综合" tvg-logo="https://live.fanmingming.com/tv/齐河综合.png",齐河综合
+http://150.138.8.132/00/SNM/CHANNEL00001056/index.m3u8
+#EXTINF:-1 tvg-name="平原综合" tvg-logo="https://live.fanmingming.com/tv/平原综合.png",平原综合
+http://150.138.8.132/00/SNM/CHANNEL00001064/index.m3u8
+#EXTINF:-1 tvg-name="夏津综合" tvg-logo="https://live.fanmingming.com/tv/夏津综合.png",夏津综合
+http://150.138.8.132/00/SNM/CHANNEL00001069/index.m3u8
+#EXTINF:-1 tvg-name="夏津公共" tvg-logo="https://live.fanmingming.com/tv/夏津公共.png",夏津公共
+http://150.138.8.132/00/SNM/CHANNEL00001070/index.m3u8
+#EXTINF:-1 tvg-name="宁津综合" tvg-logo="https://live.fanmingming.com/tv/宁津综合.png",宁津综合
+http://150.138.8.132/00/SNM/CHANNEL00001003/index.m3u8
+#EXTINF:-1 tvg-name="陵城综合" tvg-logo="https://live.fanmingming.com/tv/陵城综合.png",陵城综合
+http://150.138.8.132/00/SNM/CHANNEL00001082/index.m3u8
+#EXTINF:-1 tvg-name="临邑1台" tvg-logo="https://live.fanmingming.com/tv/临邑1台.png",临邑1台
+http://150.138.8.132/00/SNM/CHANNEL00001104/index.m3u8
+#EXTINF:-1 tvg-name="潍坊1台" tvg-logo="https://live.fanmingming.com/tv/潍坊1台.png",潍坊1台
+http://150.138.8.132/00/SNM/CHANNEL00000215/index.m3u8
+#EXTINF:-1 tvg-name="潍坊2台" tvg-logo="https://live.fanmingming.com/tv/潍坊2台.png",潍坊2台
+http://150.138.8.132/00/SNM/CHANNEL00000216/index.m3u8
+#EXTINF:-1 tvg-name="潍坊3台" tvg-logo="https://live.fanmingming.com/tv/潍坊3台.png",潍坊3台
+http://150.138.8.132/00/SNM/CHANNEL00000217/index.m3u8
+#EXTINF:-1 tvg-name="潍坊4台" tvg-logo="https://live.fanmingming.com/tv/潍坊4台.png",潍坊4台
+http://150.138.8.132/00/SNM/CHANNEL00000218/index.m3u8
+#EXTINF:-1 tvg-name="潍坊高新区" tvg-logo="https://live.fanmingming.com/tv/潍坊高新区.png",潍坊高新区
+http://150.138.8.132/00/SNM/CHANNEL00001106/index.m3u8
+#EXTINF:-1 tvg-name="安丘综合" tvg-logo="https://live.fanmingming.com/tv/安丘综合.png",安丘综合
+http://150.138.8.132/00/SNM/CHANNEL00001015/index.m3u8
+#EXTINF:-1 tvg-name="青州综合" tvg-logo="https://live.fanmingming.com/tv/青州综合.png",青州综合
+http://150.138.8.132/00/SNM/CHANNEL00001042/index.m3u8
+#EXTINF:-1 tvg-name="青州文化旅游" tvg-logo="https://live.fanmingming.com/tv/青州文化旅游.png",青州文化旅游
+http://150.138.8.132/00/SNM/CHANNEL00001057/index.m3u8
+#EXTINF:-1 tvg-name="寿光蔬菜频道" tvg-logo="https://live.fanmingming.com/tv/寿光蔬菜频道.png",寿光蔬菜频道
+http://150.138.8.132/00/SNM/CHANNEL00001045/index.m3u8
+#EXTINF:-1 tvg-name="昌邑综合" tvg-logo="https://live.fanmingming.com/tv/昌邑综合.png",昌邑综合
+http://150.138.8.132/00/SNM/CHANNEL00001083/index.m3u8
+#EXTINF:-1 tvg-name="临朐综合" tvg-logo="https://live.fanmingming.com/tv/临朐综合.png",临朐综合
+http://150.138.8.132/00/SNM/CHANNEL00001085/index.m3u8
+#EXTINF:-1 tvg-name="高密综合" tvg-logo="https://live.fanmingming.com/tv/高密综合.png",高密综合
+http://150.138.8.132/00/SNM/CHANNEL00001089/index.m3u8
+#EXTINF:-1 tvg-name="昌乐综合" tvg-logo="https://live.fanmingming.com/tv/昌乐综合.png",昌乐综合
+http://150.138.8.132/00/SNM/CHANNEL00001033/index.m3u8
+#EXTINF:-1 tvg-name="烟台新闻综合" tvg-logo="https://live.fanmingming.com/tv/烟台新闻综合.png",烟台新闻综合
+http://150.138.8.132/00/SNM/CHANNEL00000280/index.m3u8
+#EXTINF:-1 tvg-name="烟台影视" tvg-logo="https://live.fanmingming.com/tv/烟台影视.png",烟台影视
+http://150.138.8.132/00/SNM/CHANNEL00000283/index.m3u8
+#EXTINF:-1 tvg-name="烟台经济科技" tvg-logo="https://live.fanmingming.com/tv/烟台经济科技.png",烟台经济科技
+http://150.138.8.132/00/SNM/CHANNEL00000282/index.m3u8
+#EXTINF:-1 tvg-name="龙口综合" tvg-logo="https://live.fanmingming.com/tv/龙口综合.png",龙口综合
+http://150.138.8.132/00/SNM/CHANNEL00001005/index.m3u8
+#EXTINF:-1 tvg-name="莱山1" tvg-logo="https://live.fanmingming.com/tv/莱山1.png",莱山1
+http://150.138.8.132/00/SNM/CHANNEL00001075/index.m3u8
+#EXTINF:-1 tvg-name="蓬莱综合" tvg-logo="https://live.fanmingming.com/tv/蓬莱综合.png",蓬莱综合
+http://150.138.8.132/00/SNM/CHANNEL00001088/index.m3u8
+#EXTINF:-1 tvg-name="长岛频道" tvg-logo="https://live.fanmingming.com/tv/长岛频道.png",长岛频道
+http://150.138.8.132/00/SNM/CHANNEL00001090/index.m3u8
+#EXTINF:-1 tvg-name="海阳综合" tvg-logo="https://live.fanmingming.com/tv/海阳综合.png",海阳综合
+http://150.138.8.132/00/SNM/CHANNEL00001091/index.m3u8
+#EXTINF:-1 tvg-name="海阳综艺" tvg-logo="https://live.fanmingming.com/tv/海阳综艺.png",海阳综艺
+http://150.138.8.132/00/SNM/CHANNEL00001092/index.m3u8
+#EXTINF:-1 tvg-name="招远综合" tvg-logo="https://live.fanmingming.com/tv/招远综合.png",招远综合
+http://150.138.8.132/00/SNM/CHANNEL00001113/index.m3u8
+#EXTINF:-1 tvg-name="莒县综合" tvg-logo="https://live.fanmingming.com/tv/莒县综合.png",莒县综合
+http://150.138.8.132/00/SNM/CHANNEL00001014/index.m3u8
+#EXTINF:-1 tvg-name="岚山电视台" tvg-logo="https://live.fanmingming.com/tv/岚山电视台.png",岚山电视台
+http://150.138.8.132/00/SNM/CHANNEL00001044/index.m3u8
+#EXTINF:-1 tvg-name="济宁高新频道" tvg-logo="https://live.fanmingming.com/tv/济宁高新频道.png",济宁高新频道
+http://150.138.8.132/00/SNM/CHANNEL00001101/index.m3u8
+#EXTINF:-1 tvg-name="济宁新闻综合" tvg-logo="https://live.fanmingming.com/tv/济宁新闻综合.png",济宁新闻综合
+http://150.138.8.132/00/SNM/CHANNEL00000240/index.m3u8
+#EXTINF:-1 tvg-name="嘉祥综合" tvg-logo="https://live.fanmingming.com/tv/嘉祥综合.png",嘉祥综合
+http://150.138.8.132/00/SNM/CHANNEL00001016/index.m3u8
+#EXTINF:-1 tvg-name="邹城综合" tvg-logo="https://live.fanmingming.com/tv/邹城综合.png",邹城综合
+http://150.138.8.132/00/SNM/CHANNEL00001038/index.m3u8
+#EXTINF:-1 tvg-name="兖州新闻" tvg-logo="https://live.fanmingming.com/tv/兖州新闻.png",兖州新闻
+http://150.138.8.132/00/SNM/CHANNEL00001051/index.m3u8
+#EXTINF:-1 tvg-name="曲阜综合" tvg-logo="https://live.fanmingming.com/tv/曲阜综合.png",曲阜综合
+http://150.138.8.132/00/SNM/CHANNEL00001052/index.m3u8
+#EXTINF:-1 tvg-name="鱼台综合" tvg-logo="https://live.fanmingming.com/tv/鱼台综合.png",鱼台综合
+http://150.138.8.132/00/SNM/CHANNEL00001107/index.m3u8
+#EXTINF:-1 tvg-name="鱼台生活" tvg-logo="https://live.fanmingming.com/tv/鱼台生活.png",鱼台生活
+http://150.138.8.132/00/SNM/CHANNEL00001108/index.m3u8
+#EXTINF:-1 tvg-name="任城1" tvg-logo="https://live.fanmingming.com/tv/任城1.png",任城1
+http://150.138.8.132/00/SNM/CHANNEL00001111/index.m3u8
+#EXTINF:-1 tvg-name="任城2" tvg-logo="https://live.fanmingming.com/tv/任城2.png",任城2
+http://150.138.8.132/00/SNM/CHANNEL00001112/index.m3u8
+#EXTINF:-1 tvg-name="蒙阴综合" tvg-logo="https://live.fanmingming.com/tv/蒙阴综合.png",蒙阴综合
+http://150.138.8.132/00/SNM/CHANNEL00001031/index.m3u8
+#EXTINF:-1 tvg-name="兰陵综合" tvg-logo="https://live.fanmingming.com/tv/兰陵综合.png",兰陵综合
+http://150.138.8.132/00/SNM/CHANNEL00001032/index.m3u8
+#EXTINF:-1 tvg-name="兰陵公共" tvg-logo="https://live.fanmingming.com/tv/兰陵公共.png",兰陵公共
+http://150.138.8.132/00/SNM/CHANNEL00001095/index.m3u8
+#EXTINF:-1 tvg-name="沂水综合" tvg-logo="https://live.fanmingming.com/tv/沂水综合.png",沂水综合
+http://150.138.8.132/00/SNM/CHANNEL00001098/index.m3u8
+#EXTINF:-1 tvg-name="沂水生活" tvg-logo="https://live.fanmingming.com/tv/沂水生活.png",沂水生活
+http://150.138.8.132/00/SNM/CHANNEL00001099/index.m3u8
+#EXTINF:-1 tvg-name="河东综合" tvg-logo="https://live.fanmingming.com/tv/河东综合.png",河东综合
+http://150.138.8.132/00/SNM/CHANNEL00001109/index.m3u8
+#EXTINF:-1 tvg-name="临沭综合" tvg-logo="https://live.fanmingming.com/tv/临沭综合.png",临沭综合
+http://150.138.8.132/00/SNM/CHANNEL00001094/index.m3u8
+#EXTINF:-1 tvg-name="郓城综合" tvg-logo="https://live.fanmingming.com/tv/郓城综合.png",郓城综合
+http://150.138.8.132/00/SNM/CHANNEL00001041/index.m3u8
+#EXTINF:-1 tvg-name="巨野新闻" tvg-logo="https://live.fanmingming.com/tv/巨野新闻.png",巨野新闻
+http://150.138.8.132/00/SNM/CHANNEL00001046/index.m3u8
+#EXTINF:-1 tvg-name="定陶1" tvg-logo="https://live.fanmingming.com/tv/定陶1.png",定陶1
+http://150.138.8.132/00/SNM/CHANNEL00001063/index.m3u8
+#EXTINF:-1 tvg-name="单县综合" tvg-logo="https://live.fanmingming.com/tv/单县综合.png",单县综合
+http://150.138.8.132/00/SNM/CHANNEL00001079/index.m3u8
+#EXTINF:-1 tvg-name="广饶综合" tvg-logo="https://live.fanmingming.com/tv/广饶综合.png",广饶综合
+http://150.138.8.132/00/SNM/CHANNEL00001043/index.m3u8
+#EXTINF:-1 tvg-name="聊城综合频道" tvg-logo="https://live.fanmingming.com/tv/聊城综合频道.png",聊城综合频道
+http://150.138.8.132/00/SNM/CHANNEL00000250/index.m3u8
+#EXTINF:-1 tvg-name="聊城民生频道" tvg-logo="https://live.fanmingming.com/tv/聊城民生频道.png",聊城民生频道
+http://150.138.8.132/00/SNM/CHANNEL00000251/index.m3u8
+#EXTINF:-1 tvg-name="茌平综合" tvg-logo="https://live.fanmingming.com/tv/茌平综合.png",茌平综合
+http://150.138.8.132/00/SNM/CHANNEL00001048/index.m3u8
+#EXTINF:-1 tvg-name="东阿综合" tvg-logo="https://live.fanmingming.com/tv/东阿综合.png",东阿综合
+http://150.138.8.132/00/SNM/CHANNEL00001093/index.m3u8
+#EXTINF:-1 tvg-name="临清综合" tvg-logo="https://live.fanmingming.com/tv/临清综合.png",临清综合
+http://150.138.8.132/00/SNM/CHANNEL00001103/index.m3u8
+#EXTINF:-1 tvg-name="荣成综合" tvg-logo="https://live.fanmingming.com/tv/荣成综合.png",荣成综合
+http://150.138.8.132/00/SNM/CHANNEL00001053/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png",卡酷少儿
+http://150.138.8.143/00/SNM/CHANNEL00000661/index.m3u8
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png",东方财经
+http://150.138.8.143/00/SNM/CHANNEL00002025/index.m3u8
+#EXTINF:-1 tvg-name="SiTV东方财经" tvg-logo="https://live.fanmingming.com/tv/SiTV东方财经.png",SiTV东方财经
+http://150.138.8.132/00/SNM/CHANNEL00002025/index.m3u8
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png",魅力足球
+http://150.138.8.143/00/SNM/CHANNEL00002021/index.m3u8
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png",生活时尚
+http://150.138.8.143/00/SNM/CHANNEL00002019/index.m3u8
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://live.fanmingming.com/tv/游戏风云.png",游戏风云
+http://150.138.8.143/00/SNM/CHANNEL00002024/index.m3u8
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png",金鹰纪实
+http://150.138.8.143/00/SNM/CHANNEL00000334/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/金鹰卡通.png",金鹰卡通
+http://150.138.8.143/00/SNM/CHANNEL00002027/index.m3u8
+#EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png",凤凰卫视
+http://150.138.8.132/00/SNM/CHANNEL00000380/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png",山东卫视
+http://150.138.8.132/00/SNM/CHANNEL10000301/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
+http://150.138.8.132/00/SNM/CHANNEL00000324/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png",湖北卫视
+http://150.138.8.132/00/SNM/CHANNEL00000325/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png",辽宁卫视
+http://150.138.8.132/00/SNM/CHANNEL00000326/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png",天津卫视
+http://150.138.8.132/00/SNM/CHANNEL00000327/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
+http://150.138.8.132/00/SNM/CHANNEL00000328/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.com/tv/贵州卫视.png",贵州卫视
+http://150.138.8.132/00/SNM/CHANNEL00000329/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png",河北卫视
+http://150.138.8.132/00/SNM/CHANNEL00000330/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png",江苏卫视
+http://150.138.8.132/00/SNM/CHANNEL00000304/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
+http://150.138.8.132/00/SNM/CHANNEL00000305/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.com/tv/黑龙江卫视.png",黑龙江卫视
+http://150.138.8.132/00/SNM/CHANNEL00000306/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
+http://150.138.8.132/00/SNM/CHANNEL00000307/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
+http://150.138.8.132/00/SNM/CHANNEL00000308/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png",东方卫视
+http://150.138.8.132/00/SNM/CHANNEL00000309/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
+http://150.138.8.132/00/SNM/CHANNEL00000310/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png",北京卫视
+http://150.138.8.132/00/SNM/CHANNEL00000302/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png",江西卫视
+http://150.138.8.132/00/SNM/CHANNEL00000335/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png",重庆卫视
+http://150.138.8.132/00/SNM/CHANNEL00000341/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
+http://150.138.8.132/00/SNM/CHANNEL00000347/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png",四川卫视
+http://150.138.8.132/00/SNM/CHANNEL00000348/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.com/tv/甘肃卫视.png",甘肃卫视
+http://150.138.8.132/00/SNM/CHANNEL00000349/index.m3u8
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
+http://150.138.8.132/00/SNM/CHANNEL00000358/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.com/tv/吉林卫视.png",吉林卫视
+http://150.138.8.132/00/SNM/CHANNEL00000363/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.com/tv/青海卫视.png",青海卫视
+http://150.138.8.132/00/SNM/CHANNEL00000366/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.com/tv/云南卫视.png",云南卫视
+http://150.138.8.132/00/SNM/CHANNEL00000367/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png",广西卫视
+http://150.138.8.132/00/SNM/CHANNEL00000368/index.m3u8
+#EXTINF:-1 tvg-name="湖南金鹰卡通" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰卡通.png",湖南金鹰卡通
+http://150.138.8.132/00/SNM/CHANNEL00002027/index.m3u8
+#EXTINF:-1 tvg-name="湖南金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/湖南金鹰纪实.png",湖南金鹰纪实
+http://150.138.8.132/00/SNM/CHANNEL00000334/index.m3u8
+#EXTINF:-1 tvg-name="湖南快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/湖南快乐垂钓.png",湖南快乐垂钓
+http://150.138.8.132/00/SNM/CHANNEL00000648/index.m3u8
+#EXTINF:-1 tvg-name="湖南茶频道" tvg-logo="https://live.fanmingming.com/tv/湖南茶频道.png",湖南茶频道
+http://150.138.8.132/00/SNM/CHANNEL00000649/index.m3u8
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png",北京纪实科教
+http://150.138.8.132/00/SNM/CHANNEL00000332/index.m3u8
+#EXTINF:-1 tvg-name="北京KaKu少儿" tvg-logo="https://live.fanmingming.com/tv/北京KaKu少儿.png",北京KaKu少儿
+http://150.138.8.132/00/SNM/CHANNEL00000661/index.m3u8
+#EXTINF:-1 tvg-name="重庆汽摩频道" tvg-logo="https://live.fanmingming.com/tv/重庆汽摩频道.png",重庆汽摩频道
+http://150.138.8.132/00/SNM/CHANNEL00000711/index.m3u8
+#EXTINF:-1 tvg-name="河南梨园频道" tvg-logo="https://live.fanmingming.com/tv/河南梨园频道.png",河南梨园频道
+http://150.138.8.132/00/SNM/CHANNEL00000656/index.m3u8
+#EXTINF:-1 tvg-name="河南武术世界" tvg-logo="https://live.fanmingming.com/tv/河南武术世界.png",河南武术世界
+http://150.138.8.132/00/SNM/CHANNEL00000657/index.m3u8
+#EXTINF:-1 tvg-name="河南文物宝库" tvg-logo="https://live.fanmingming.com/tv/河南文物宝库.png",河南文物宝库
+http://150.138.8.132/00/SNM/CHANNEL00000658/index.m3u8
