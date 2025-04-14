@@ -39,6 +39,8 @@ http://192.168.10.1:8001/rtp/239.21.2.4:5002
 http://192.168.10.1:8001/rtp/239.21.1.186:5002
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4K.png" group-title="" codec="N/A" resolution="3840x2160" frame-rate="N/A" bit-rate="N/A", CCTV4K
 http://192.168.10.1:8001/rtp/239.21.2.152:5002
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/北京卫视.png" group-title="卫视" codec="h264" resolution="3840x2160" frame-rate="N/A" bit-rate="N/A",北京卫视
+http://192.168.10.1:8001/rtp/239.21.2.162:5002
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CGTN
 http://192.168.10.1:8001/rtp/239.21.2.30:5002
