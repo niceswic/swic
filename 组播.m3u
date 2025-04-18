@@ -54,8 +54,6 @@ http://192.168.10.1:8001/rtp/239.21.2.33:5002
 http://192.168.10.1:8001/rtp/239.21.2.34:5002
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN俄语.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CGTN俄语
 http://192.168.10.1:8001/rtp/239.21.2.35:5002
-#EXTINF:-1 tvg-id="NHKWorld" tvg-name="NHKWorld" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/NHKWorld.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", NHKWorld
-http://192.168.10.1:8001/rtp/239.21.1.98:5002
 
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/山东卫视.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",山东卫视
 http://192.168.10.1:8001/rtp/239.21.1.87:5002
