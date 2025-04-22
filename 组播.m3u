@@ -37,10 +37,16 @@ http://192.168.10.1:8001/rtp/239.21.1.157:5002
 http://192.168.10.1:8001/rtp/239.21.2.4:5002
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV17.png" group-title="农业" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CCTV17
 http://192.168.10.1:8001/rtp/239.21.1.186:5002
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4K.png" group-title="" codec="N/A" resolution="3840x2160" frame-rate="N/A" bit-rate="N/A", CCTV4K
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4K.png" group-title="4k" codec="N/A" resolution="3840x2160" frame-rate="N/A" bit-rate="N/A", CCTV4K
 http://192.168.10.1:8001/rtp/239.21.2.152:5002
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/北京卫视.png" group-title="卫视" codec="h264" resolution="3840x2160" frame-rate="N/A" bit-rate="N/A",北京卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/北京卫视.png" group-title="4k" codec="h264" resolution="3840x2160" frame-rate="N/A" bit-rate="N/A",北京卫视
 http://192.168.10.1:8001/rtp/239.21.2.162:5002
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/凤凰中文.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", 凤凰中文
+http://192.168.10.1:8001/rtp/239.21.2.153:5002
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/凤凰资讯.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", 凤凰资讯
+http://192.168.10.1:8001/rtp/239.21.2.163:5002
+#EXTINF:-1 tvg-id="凤凰深圳周边" tvg-name="凤凰深圳周边" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/凤凰深圳周边.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", 凤凰深圳周边
+http://192.168.10.1:8001/rtp/239.21.2.164:5002
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CGTN
 http://192.168.10.1:8001/rtp/239.21.2.30:5002
@@ -113,8 +119,7 @@ http://192.168.10.1:8001/rtp/239.21.2.85:5002
 http://192.168.10.1:8001/rtp/239.21.2.86:5002
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/广西卫视.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",广西卫视
 http://192.168.10.1:8001/rtp/239.21.2.87:5002
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/凤凰中文.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", 凤凰中文
-http://192.168.10.1:8001/rtp/239.21.2.153:5002
+
 
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/中国教育1台.png" group-title="教育" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",中国教育1台
 http://192.168.10.1:8001/rtp/239.21.2.7:5002
