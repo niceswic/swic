@@ -47,6 +47,8 @@ http://192.168.10.1:8001/rtp/239.21.2.153:5002
 http://192.168.10.1:8001/rtp/239.21.2.163:5002
 #EXTINF:-1 tvg-id="凤凰深圳周边" tvg-name="凤凰深圳周边" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/凤凰深圳周边.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", 凤凰深圳周边
 http://192.168.10.1:8001/rtp/239.21.2.164:5002
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/星空卫视.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", 星空卫视
+http://192.168.10.1:8001/rtp/239.21.2.166:5002
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CGTN
 http://192.168.10.1:8001/rtp/239.21.2.30:5002
