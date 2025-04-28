@@ -52,9 +52,9 @@ http://192.168.10.1:8001/rtp/239.21.2.166:5002
 #EXTINF:-1 tvg-name="澳门卫视" tvg-logo="https://live.fanmingming.com/tv/澳门卫视.png" group-title="卫视",澳门卫视
 http://150.138.8.132/PLTV/88888888/224/3221227295/517077830.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="NHK WORLD" tvg-name="NHK WORLD" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/NHK WORLD.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", NHK WORLD
-rtsp://150.138.8.132/PLTV/88888888/224/3221227292/517077885.smil
+http://150.138.8.132/PLTV/88888888/224/3221227292/517077885.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="阿里郎" tvg-name="阿里郎" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/阿里郎.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", 阿里郎
-rtsp://150.138.8.135/PLTV/88888888/224/3221227430/517077912.smil
+http://150.138.8.135/PLTV/88888888/224/3221227430/517077912.smil/index.m3u8?fmt=ts2hls
 
 
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CGTN.png" group-title="国际" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A",CGTN
