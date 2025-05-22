@@ -40,7 +40,7 @@ http://192.168.10.1:8001/rtp/239.21.1.186:5002
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/CCTV4K.png" group-title="4k" codec="N/A" resolution="3840x2160" frame-rate="N/A" bit-rate="N/A", CCTV4K
 http://192.168.10.1:8001/rtp/239.21.2.152:5002
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/北京卫视.png" group-title="4k" codec="h264" resolution="3840x2160" frame-rate="N/A" bit-rate="N/A",北京卫视
-http://192.168.10.1:8001/rtp/239.21.2.162:5002
+http://192.168.10.1:8001/rtp/239.21.2.172:5002
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/凤凰中文.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", 凤凰中文
 http://192.168.10.1:8001/rtp/239.21.2.153:5002
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/凤凰资讯.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", 凤凰资讯
