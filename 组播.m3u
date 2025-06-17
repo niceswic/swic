@@ -47,8 +47,7 @@ http://192.168.10.1:8001/rtp/239.21.2.153:5002
 http://192.168.10.1:8001/rtp/239.21.2.163:5002
 #EXTINF:-1 tvg-id="凤凰深圳旁边" tvg-name="凤凰深圳旁边" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/凤凰深圳旁边.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", 凤凰深圳旁边
 http://192.168.10.1:8001/rtp/239.21.2.164:5002
-#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/星空卫视.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", 星空卫视
-http://192.168.10.1:8001/rtp/239.21.2.166:5002
+
 #EXTINF:-1 tvg-name="澳门卫视" tvg-logo="https://live.fanmingming.com/tv/澳门卫视.png" group-title="卫视",澳门卫视
 http://150.138.8.132/PLTV/88888888/224/3221227295/517077830.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="NHK WORLD" tvg-name="NHK WORLD" tvg-logo="https://raw.githubusercontent.com/sumingyd/Telecom-Shandong-IPTV-List/main/img/NHK WORLD.png" group-title="卫视" codec="h264" resolution="1920x1080" frame-rate="25/1" bit-rate="N/A", NHK WORLD
