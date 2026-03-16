@@ -203,6 +203,9 @@ http://192.168.10.1:8001/rtp/239.21.2.102:5002
 http://192.168.10.1:8001/rtp/239.21.2.121:5002
 #EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/湖南/金鹰纪实.png" group-title="特色频道" resolution="1920x1080" ,金鹰纪实
 http://192.168.10.1:8001/rtp/239.21.1.170:5002
+
+#EXTINF:-1 tvg-id="239" tvg-name="五莲综合" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/日照五莲.png" group-title="日照" tvg-chno="239" tvg-shift="0" catchup="none" catchup-days="0" resolution="1920x1080" ,五莲综合
+http://192.168.10.1:8001/rtp/239.21.2.191:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东体育休闲" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东体育.png" group-title="山东频道" resolution="1920x1080" ,山东体育休闲
 http://192.168.10.1:8001/rtp/239.21.1.141:5002
 #EXTINF:-1 tvg-id="" tvg-name="山东农科" tvg-logo="https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/山东/山东农科.png" group-title="山东频道" resolution="1920x1080" ,山东农科
